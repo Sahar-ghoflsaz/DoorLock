@@ -1,0 +1,99 @@
+tag id = 96344208387   Time = 2019-08-26 14:41:12.212131 valid
+ finger request Time = 2019-08-26 14:43:51.529998 invalid 
+tag id = 0   Time = 2019-08-26 14:43:57.217754 valid
+tag id = 96344208387   Time = 2019-08-26 14:43:59.672409 valid
+tag id = 628141884285   Time = 2019-08-26 14:44:03.452704 invalid
+finger char place = 0   Time = 2019-08-26 14:45:33.321379 valid
+ finger request Time = 2019-08-26 14:45:38.046473 invalid 
+tag id = 96344208387   Time = 2019-08-26 14:45:41.795913 valid
+tag id = 150090968736   Time = 2019-08-26 14:45:43.708467 valid
+tag id = 628141884285   Time = 2019-08-26 14:45:47.027422 invalid
+tag id = 717152119086   Time = 2019-08-26 14:45:49.727754 invalid
+finger char place = 0   Time = 2019-08-26 14:45:55.508008 valid
+finger char place = 0   Time = 2019-08-26 14:46:01.172306 valid
+tag id = 150090968736   Time = 2019-08-26 15:08:39.942386 valid
+tag id = 717152119086   Time = 2019-08-26 15:08:46.679260 invalid
+finger char place = 0   Time = 2019-08-26 15:08:55.572145 valid
+ finger request Time = 2019-08-26 15:09:01.287734 invalid 
+ finger request Time = 2019-08-26 15:09:14.395867 invalid 
+finger char place = 0   Time = 2019-08-26 15:09:20.140402 valid
+finger char place = 0   Time = 2019-08-26 15:09:52.766492 valid
+tag id = 96344208387   Time = 2019-08-26 15:26:18.735578 valid
+tag id = 96344208387   Time = 2019-08-26 15:26:22.449273 valid
+tag id = 628141884285   Time = 2019-08-26 15:26:26.388229 invalid
+ finger request Time = 2019-08-26 15:26:40.717039 invalid 
+finger char place = 8   Time = 2019-08-26 15:27:04.016362 valid
+ finger request Time = 2019-08-26 15:27:15.905340 invalid 
+finger char place = 0   Time = 2019-08-27 14:45:01.266460 valid
+ finger request Time = 2019-08-27 14:45:15.092768 invalid 
+tag id = 150090968736   Time = 2019-08-27 14:45:23.836173 valid
+tag id = 717152119086   Time = 2019-08-27 14:45:27.772321 invalid
+tag id = 717152119086   Time = 2019-08-27 14:45:30.952500 invalid
+finger char place = 0   Time = 2019-08-28 12:40:40.909666 valid
+ finger request Time = 2019-08-28 12:42:20.326864 invalid 
+ finger request Time = 2019-08-28 12:42:30.200520 invalid 
+finger char place = 0   Time = 2019-08-28 12:42:45.174600 valid
+finger char place = 0   Time = 2019-08-28 12:42:55.830674 valid
+finger char place = 0   Time = 2019-08-28 12:43:03.040249 valid
+finger char place = 0   Time = 2019-08-28 12:43:15.949963 valid
+finger char place = 6   Time = 2019-08-28 12:43:22.263024 valid
+finger char place = 0   Time = 2019-08-28 12:44:17.582895 valid
+finger char place = 0   Time = 2019-08-28 12:44:21.167149 valid
+tag id = 150090968736   Time = 2019-08-28 16:05:52.904721 valid
+finger char place = 0   Time = 2019-08-28 16:06:02.743858 valid
+finger char place = 0   Time = 2019-08-28 16:06:15.503071 valid
+ finger request Time = 2019-08-28 16:06:20.829138 invalid 
+ finger request Time = 2019-08-28 16:06:32.359768 invalid 
+tag id = 150090968736   Time = 2019-08-28 16:06:38.082803 valid
+tag id = 150090968736   Time = 2019-08-28 16:06:53.771747 valid
+tag id = 628141884285   Time = 2019-08-28 16:07:06.534028 invalid
+tag id = 96344208387   Time = 2019-08-30 00:08:27.309243 valid
+tag id = 96344208387   Time = 2019-08-30 00:08:31.681521 valid
+finger char place = 0   Time = 2019-08-30 00:08:44.143962 valid
+tag id = 717152119086   Time = 2019-08-30 00:09:09.734255 invalid
+ finger request Time = 2019-08-30 00:09:16.518622 invalid 
+tag id = 96344208387   Time = 2019-08-30 00:11:11.801872 valid
+tag id = 96344208387   Time = 2019-08-30 00:11:14.979767 valid
+tag id = 717152119086   Time = 2019-08-30 00:11:18.954035 invalid
+finger char place = 0   Time = 2019-08-30 00:11:26.009921 valid
+finger char place = 0   Time = 2019-08-30 00:11:38.406547 valid
+finger char place = 8   Time = 2019-08-30 00:12:08.788849 valid
+ finger request Time = 2019-08-30 00:12:13.989424 invalid 
+ finger request Time = 2019-08-30 00:12:19.525461 invalid 
+tag id = 96344208387   Time = 2019-08-30 00:12:23.135161 valid
+ finger request Time = 2019-08-30 00:12:29.735187 invalid 
+finger char place = 8   Time = 2019-08-30 00:12:36.748325 valid
+tag id = 150090968736   Time = 2019-08-31 14:20:15.485521 valid
+tag id = 150090968736   Time = 2019-08-31 14:20:18.542955 valid
+tag id = 150090968736   Time = 2019-08-31 14:20:26.157352 valid
+tag id = 717152119086   Time = 2019-08-31 14:20:29.854149 invalid
+ finger request Time = 2019-08-31 14:20:43.671438 invalid 
+finger char place = 8   Time = 2019-08-31 14:20:49.606550 valid
+tag id = 628141884285   Time = 2019-08-31 14:20:54.875321 invalid
+tag id = 628141884285   Time = 2019-08-31 14:20:59.165200 invalid
+tag id = 628141884285   Time = 2019-08-31 14:22:09.242307 invalid
+tag id = 150090968736   Time = 2019-08-31 14:22:14.424716 valid
+tag id = 96344208387   Time = 2019-09-03 14:17:12.538832 valid
+tag id = 96344208387   Time = 2019-09-03 14:17:23.640212 valid
+ finger request Time = 2019-09-03 14:17:27.756994 invalid 
+tag id = 717152119086   Time = 2019-09-03 14:17:35.879013 invalid
+tag id = 96344208387   Time = 2019-09-03 16:58:45.865215 valid
+tag id = 717152119086   Time = 2019-09-03 16:58:50.681014 invalid
+ finger request Time = 2019-09-03 16:58:57.184658 invalid 
+finger char place = 0   Time = 2019-09-03 16:59:19.885285 valid
+finger char place = 0   Time = 2019-09-03 16:59:23.506093 valid
+tag id = 717152119086   Time = 2019-09-03 17:09:27.531053 invalid
+tag id = 717152119086   Time = 2019-09-03 17:09:29.839194 invalid
+tag id = 96344208387   Time = 2019-09-03 22:32:28.267007 valid
+tag id = 717152119086   Time = 2019-09-03 22:32:48.524865 invalid
+ finger request Time = 2019-09-03 22:33:34.242929 invalid 
+ finger request Time = 2019-09-04 14:10:55.158426 invalid 
+ finger request Time = 2019-09-04 14:11:15.849421 invalid 
+tag id = 150090968736   Time = 2019-09-07 11:47:34.131049 valid
+tag id = 150090968736   Time = 2019-09-07 11:47:38.833105 valid
+tag id = 628141884285   Time = 2019-09-07 11:47:44.620096 invalid
+ finger request Time = 2019-09-07 11:48:10.271097 invalid 
+finger char place = 8   Time = 2019-09-07 11:49:01.688423 valid
+ finger request Time = 2019-09-07 11:49:08.458978 invalid 
+tag id = 717152119086   Time = 2019-09-07 11:49:15.052532 invalid
+tag id = 717152119086   Time = 2019-09-07 11:50:36.197278 invalid
